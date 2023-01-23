@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://raw.githubusercontent.com/Zerebel/Zerebel/main/zerebel.jpg" alt="zerebel" /> </p>
+
 <h1 align="center">Hi 👋, I'm Zerebel</h1>
 <h3 align="center">A passionate software engineer from Ghana</h3>
 
