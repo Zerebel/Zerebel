@@ -1,6 +1,10 @@
 <p align="left"> <img src="https://raw.githubusercontent.com/Zerebel/Zerebel/main/zerebel.jpg" alt="zerebel" /> </p>
 ### <div align="center">I'm Zerebel, a full-time software engineer 👨‍💻 working remotely since 2020 🚀</div>  
-  
+
+<br/>
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=jjonvwp4q9h1jc8bakicwag2w&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
+
+<br/>  
 
 - 🔭 I’m currently working on [Windbnb](https://github.com/Zerebel/Windbnb)  
   
@@ -121,9 +125,7 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=jjonvwp4q9h1jc8bakicwag2w&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
 
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=zerebel&&style=flat-square" align="center" />
