@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://raw.githubusercontent.com/Zerebel/Zerebel/main/zerebel.jpg" alt="zerebel" /> </p>
-### <div align="center">I'm Zerebel, a full-time software engineer 👨‍💻 working remotely since 2020 🚀</div>  
+<div align="center">I'm Zerebel, a full-time software engineer 👨‍💻 working remotely since 2020 🚀</div>  
 
 <br/>
 
@@ -20,6 +20,10 @@
 
 <br/>  
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=zerebel&&style=flat-square" align="center" />
+</div>  
+<br/>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -129,9 +133,6 @@
 
 
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=zerebel&&style=flat-square" align="center" />
-</div>  
   
 
 <br/>  
