@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://raw.githubusercontent.com/Zerebel/Zerebel/main/zerebel.jpg" alt="zerebel" /> </p>
+
 <div align="center">I'm Zerebel, a dedicated software engineer 👨‍💻 working remotely since 2020 🚀</div>  
 
 <br/>
