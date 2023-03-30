@@ -6,7 +6,7 @@
 
 <br/>  
 
-- 🔭 I’m currently working on [Windbnb](https://github.com/Zerebel/Windbnb)  
+- 🔭 I’m currently working on [Quote Generator](https://github.com/Zerebel/random-quote-generator)  
   
 
 - 🌱 I’m currently learning C and C#  
