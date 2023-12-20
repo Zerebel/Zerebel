@@ -6,10 +6,10 @@
 
 <br/>  
 
-- 🔭 I’m currently working on [Quote Generator](https://github.com/Zerebel/random-quote-generator)  
+- 🔭 I’m currently working on [The Food App](https://github.com/Zerebel/food_app)  
   
 
-- 🌱 I’m currently learning C and C#  
+- 🌱 I’m currently learning Dart  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
