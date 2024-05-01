@@ -69,7 +69,7 @@
 <br/>  
 
 ## Coding Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=zerebel&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-stats-47yd1gm7z-zerebels-projects.vercel.app?user=zerebel&theme=whatsapp-dark)](https://git.io/streak-stats)
 
 
 ## Connect with me  
